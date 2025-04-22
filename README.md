@@ -1,2 +1,1 @@
-# Object-Oriented-Programming-in-Python---Practice
-A collection of practice projects I've created to help me learn Object Oriented Programming in Python concepts as I watch this video: https://www.youtube.com/watch?v=IbMDCwVm63M
+Please note that all of the software I create for personal use and enjoyment will always be free of charge and open-source. Feel free to use, modify, and distribute any of these scripts to your heart's content.
